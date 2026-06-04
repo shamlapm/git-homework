@@ -1,1 +1,1 @@
-This is the main branch text.
+Homework Assignment: Task one completed and branch conflicts resolved.
