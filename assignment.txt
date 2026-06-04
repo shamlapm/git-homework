@@ -1,1 +1,2 @@
 Homework Assignment: Task one completed and branch conflicts resolved.
+This is the final content for task two.
